@@ -1,4 +1,3 @@
-![logo](https://github.com/pailasuresh/pailasuresh/blob/main/photo_2023-07-14_18-26-57.jpg)
 <h1 align="center">Hello 👋, I'm Suresh Paila</h1>
 <h3 align="center">I am a MERN (MongoDB, Express.js, React.js, Node js) stack developer with a deep understanding of the full web development process. With hands-on experience in fronted and backend development.</h3>
 <img align = "right" alt = "MERN" width = "300" src = "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
@@ -15,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href= "https://www.linkedin.com/sureshpaila1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suresh paila" height="30" width="40" /></a>
+<a href= "https://www.linkedin.com/in/sureshpaila1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suresh paila" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sureshpaila318" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sureshpaila318" height="30" width="40" /></a>
 </p>
 
